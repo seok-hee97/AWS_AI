@@ -75,42 +75,8 @@ https://aws.amazon.com/ko/blogs/korea/build-a-serverless-frontend-for-an-amazon-
 - Create a serverless endpoint 서버리스 앤드포인트 생성
 https://docs.aws.amazon.com/sagemaker/latest/dg/serverless-endpoints-create.html
 
-
-
-
-
 - Amazon Elastic Container Registry
 어디서나 컨테이너 소프트웨어를 쉽게 저장, 공유 및 배포
 https://aws.amazon.com/ko/ecr/
 
-
-
-
-#### [github]
-
-git clone 하지않고 github에 레포 만들고 로컬파일 추가하기
-
-
-local 폴더에 추가하기
-```
-git init
-```
-
-```
-git remote add origin <GitHub 레포지토리 주소>
-```
-
-```
-git add .
-```
-
-
-```
-git commit -m "init commit message
-```
-
-
-```
-git push -u origin main
-```
 
