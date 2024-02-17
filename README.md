@@ -23,12 +23,6 @@ http://kocw.or.kr/home/cview.do?cid=d7218012387b3e62
 
 
 
-
-
-
-
-
-
 ## [aws-sagemaker-serverless]
 
 
@@ -80,3 +74,12 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/serverless-endpoints-create.html
 https://aws.amazon.com/ko/ecr/
 
 
+
+
+
+
+
+### Certification
+
+
+![img](files/Cloud-based-AI-service-development_eng.pdf)
