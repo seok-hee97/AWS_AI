@@ -80,4 +80,5 @@ https://aws.amazon.com/ko/ecr/
 
 
 ### Certification
-/Cloud-based-AI-service-development_eng.pdf
+
+Cloud-based-AI-service-development_eng.pdf
